@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+
+
+    <string name="serves">serves</string>
+
+    <string name="set_widget">Set widget</string>
+
+    <string name="widget_toast">Widget as been set</string>
+
+    <string name="network_error">Unable to connect \n Check your network and retry </string>
+
+
+    <string name="recipe_url" translatable="false">https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json</string>
+
+    <string name="appwidget_text">Tap set widget from a recipe to set the ingredients list here </string>
+
+    <string name="appwidget_header"> Baking App </string>
+
+    <string name="add_widget">Add widget</string>
+
+    <string name="steps_bar_title">Steps</string>
+</resources>
